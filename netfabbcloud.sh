@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 USAGE="Usage: $0 file.stl [mm|inch]"
 
