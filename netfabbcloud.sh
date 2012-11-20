@@ -59,7 +59,7 @@ if [ $? > 0 ]; then
 fi
 
 rundir="`dirname "$0"`"
-rawmails="`$0/getmail.py 2>/dev/null`"
+rawmails="`$rundir/getmail.py 2>/dev/null`"
 if [ $? > 0 ]; then
 	echo "Cannot get mail, check your login details stored in ~/.config/netfabbcloud"
 	exit 1
