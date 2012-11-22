@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # Copyright (c) 2012, Miro Hrončok <miro@hroncok.cz>
 # ISC license, see COPYING
+# Chcecking the e-mails originaly form here: http://stackoverflow.com/a/6618585/1839451
 
 import sys, re, urllib2, MultipartPostHandler, os.path, email, time
 from datetime import datetime, timedelta
