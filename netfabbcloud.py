@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 # Copyright (c) 2012, Miro Hrončok <miro@hroncok.cz>
 # ISC license, see COPYING
 # Chcecking the e-mails originaly form here: http://stackoverflow.com/a/6618585/1839451
