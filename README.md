@@ -14,6 +14,16 @@ The netfabb Cloud Services offer a free and easy-to-use solution for anyone with
 
 The netfabb Cloud Services extend the repair functionalities of the free netfabb Studio Basic software in an easy to use way. 
 
+Pre-install
+-----------
+
+You'll need some Python stuff to run this. You can get this by `easy_install`:
+
+    easy_install IMAPClient
+    easy_install MultipartPostHandler
+
+Note that `MultipartPostHandler` is available in Ubuntu 12.04+ and Debian Wheezy+ in `python-multipartposthandler` package. Other stuff should be isntalled in your distro, if not, use your distro packages system first, `easy_install` is the second option.
+
 Usage
 -----
 
