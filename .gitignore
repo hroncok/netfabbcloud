@@ -1,2 +1,4 @@
 *.pyc
 *.pyo
+*.stl
+stringtest.py
