@@ -3,7 +3,7 @@ Netfabb Cloud script
 
 This script automate the process of going to [cloud.netfabb.com](http://cloud.netfabb.com/), uploading the STL file and wait for e-mail with the link to a web page, where you can download a repaired STL.
 
-This script will upload your STL file and check the e-mails. It everything went OK on the netfabb side, this script will download the repaired file.
+This script will upload your STL file and check the e-mails. If everything went OK on the netfabb side, this script will download the repaired file.
 
 This script is experimental! Licensed under the terms of ISC license (see COPYING).
 
