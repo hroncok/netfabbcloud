@@ -53,3 +53,4 @@ On the second tab (**Appereance Conditions**), be sure to add `*.stl` and `*.STL
 
 ![Screenshot of the second tab in Add a new custom action dialog](netfabbcloud/blob/master/img/thunar-ca2.png?raw=true) 
 
+Now you can find **Netfabb Cloud** in context menu of STL files.
