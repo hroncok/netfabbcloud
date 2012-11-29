@@ -45,11 +45,11 @@ Uploading multiple files with the same filename (or the same file) concurrently 
 Xfce integration
 ----------------
 
-You can integrate this script to Thunar (file manager for Xfce), by creating a [Custom action](http://thunar.xfce.org/pwiki/documentation/custom_actions). Go **Edit | Configure custom actions...** and click **Add a new custom action** icon on the right side. Select a suitable **Name**, **Description** and **Icon** and use `%f` as the only argument of `netfabb-cloud` command in the **Command** field.
+You can integrate this script to Thunar (file manager for Xfce), by creating a [Custom action](http://thunar.xfce.org/pwiki/documentation/custom_actions). Go **Edit | Configure custom actions...** and click **Add a new custom action** icon on the right side. Select a suitable **Name**, **Description** and **Icon** and use `%f` as the only argument of `netfabbcloud` command in the **Command** field.
 
-![Screenshot of the first tab in Add a new custom action dialog](img/thunar-ca1.png) 
+![Screenshot of the first tab in Add a new custom action dialog](./blob/master/img/thunar-ca1.png?raw=true) 
 
 On the second tab (**Appereance Conditions**), be sure to add `*.stl` and `*.STL` (separated by a semi-colon) in the **File Pattern** field and select both **Text Files** and **Other Files** to cover both ASCII and binary STLs.
 
-![Screenshot of the second tab in Add a new custom action dialog](img/thunar-ca2.png) 
+![Screenshot of the second tab in Add a new custom action dialog](./blob/master/img/thunar-ca2.png?raw=true) 
 
