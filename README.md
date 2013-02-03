@@ -47,10 +47,10 @@ Xfce integration
 
 You can integrate this script to Thunar (file manager for Xfce), by creating a [Custom action](http://thunar.xfce.org/pwiki/documentation/custom_actions). Go **Edit | Configure custom actions...** and click **Add a new custom action** icon on the right side. Select a suitable **Name**, **Description** and **Icon** and use `%f` as the only argument of `netfabbcloud` command in the **Command** field.
 
-![Screenshot of the first tab in Add a new custom action dialog](netfabbcloud/blob/master/img/thunar-ca1.png?raw=true) 
+![Screenshot of the first tab in Add a new custom action dialog](https://raw.github.com/hroncok/netfabbcloud/master/img/thunar-ca1.png) 
 
 On the second tab (**Appereance Conditions**), be sure to add `*.stl` and `*.STL` (separated by a semi-colon) in the **File Pattern** field and select both **Text Files** and **Other Files** to cover both ASCII and binary STLs.
 
-![Screenshot of the second tab in Add a new custom action dialog](netfabbcloud/blob/master/img/thunar-ca2.png?raw=true) 
+![Screenshot of the second tab in Add a new custom action dialog](https://raw.github.com/hroncok/netfabbcloud/master/img/thunar-ca2.png) 
 
 Now you can find **Netfabb Cloud** in the context menu of STL files.
