@@ -12,7 +12,7 @@ from imapclient import IMAPClient
 EMAIL = 'netfabbcloud@gmail.com'	# E-mail address
 HOST = 'imap.gmail.com'				# IMAP server
 USERNAME = EMAIL					# IMAP username
-PASSWORD = '******************'		# IMAP password
+PASSWORD = '*******************'		# IMAP password
 ssl = True							# Use SSL?
 UNITS = 'mm'						# mm or inch
 WAIT = 3							# How many secons wait between e-mail checks
