@@ -49,7 +49,7 @@ You can integrate this script to Thunar (file manager for Xfce), by creating a [
 
 ![Screenshot of the first tab in Add a new custom action dialog](https://raw.github.com/hroncok/netfabbcloud/master/img/thunar-ca1.png) 
 
-On the second tab (**Appereance Conditions**), be sure to add `*.stl` and `*.STL` (separated by a semi-colon) in the **File Pattern** field and select both **Text Files** and **Other Files** to cover both ASCII and binary STLs.
+On the second tab (**Appearance Conditions**), be sure to add `*.stl` and `*.STL` (separated by a semi-colon) in the **File Pattern** field and select both **Text Files** and **Other Files** to cover both ASCII and binary STLs.
 
 ![Screenshot of the second tab in Add a new custom action dialog](https://raw.github.com/hroncok/netfabbcloud/master/img/thunar-ca2.png) 
 
