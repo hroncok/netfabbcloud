@@ -1,3 +1,8 @@
+This no longer works!
+---------------------
+
+Netfabb Cloud have been changed in a way that this script no longer works and it is impossible to make it work again (the way it worked).
+
 Netfabb Cloud script
 ====================
 
